@@ -48,7 +48,7 @@ function draw(){
     strokeWeight(4);
     box1.display();
     box2.display();
-    ground.display();
+    ground.displa
     pig1.display();
     log1.display();
 
